@@ -6,8 +6,7 @@ pythonの学習のために、マインスイーパーのクローンアプリ�
 
 ## Demo
 
-
-
+![ver1.0.0_demo](<https://raw.githubusercontent.com/wiki/98hira/Minesweeper/anim/ver1.0.0_demo.gif>)
 
 
 
