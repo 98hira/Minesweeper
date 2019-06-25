@@ -21,6 +21,9 @@ pythonの学習のために、マインスイーパーのクローンアプリ�
 
 - Pillow(PIL)
   →画像処理ライブラリ
+  ```
+  pip install pillow
+  ```
 
 - Tkinter
   → Tk(クロスプラットフォーム対応のGUI群)をpythonで使うためのライブラリ
